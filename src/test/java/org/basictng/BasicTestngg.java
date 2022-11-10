@@ -15,5 +15,8 @@ public class BasicTestngg {
 		System.out.println("test");
 	}
 	
-	
+	@Test
+	private void gitnew() {
+		
+	}
 }
